@@ -1,4 +1,6 @@
-# 搜了半天没有找到monolog的中文文档，故自行翻译下吧。欢迎一起来提PR来帮忙翻译。
+# 前言
+
+搜了半天没有找到 [Monolog](https://github.com/Seldaek/monolog) 的中文文档，故自行翻译下吧。欢迎一起来提PR来帮忙翻译。
 
 中英文对照:
 
