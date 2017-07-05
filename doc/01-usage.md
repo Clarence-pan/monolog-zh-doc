@@ -113,7 +113,7 @@ $logger->pushProcessor(function ($record) {
 });
 ```
 
-Monolog提供了一些内置的加工程序，你可以在你的项目中使用它们。请参见[对应的章节](https://github.com/Seldaek/monolog/blob/master/doc/02-handlers-formatters-processors.md#加工程序).
+Monolog提供了一些内置的加工程序，你可以在你的项目中使用它们。请参见[对应的章节](./02-handlers-formatters-processors.md#加工程序).
 
 > 小技巧：加工程序可以被注册到一个特定的处理器上而不是直接在日志服务实例上，从而可以只在对应的处理器上生效。
 
